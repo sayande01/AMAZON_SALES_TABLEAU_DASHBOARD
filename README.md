@@ -1,4 +1,4 @@
-Title: Amazon Sales Analytics Dashboard with Tableau"
+Title: Amazon Sales Analytics Dashboard with Tableau
 
 Description: 
 The Amazon Sales Analytics Dashboard is a comprehensive visualization tool developed using Tableau, designed to provide in-depth insights into various key metrics influencing sales performance on the Amazon platform. Through intuitive and interactive visualizations, this dashboard offers a holistic view of sales data encompassing metrics such as sales amount, quantity sold, geographical distribution, shipping modes, and more. By leveraging the power of Tableau, users can explore, analyze, and derive actionable insights from their Amazon sales data, enabling informed decision-making and strategic planning.
